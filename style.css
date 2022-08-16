@@ -124,7 +124,7 @@ a{
 }
 
 .Workwonders_container{
-	background-image: url(/OneFlow/block1.png);
+	background-image: url(block1.png);
 	height: 850px;
 	background-size: cover;
 	background-position: bottom;
